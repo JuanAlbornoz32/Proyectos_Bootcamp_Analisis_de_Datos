@@ -1,0 +1,13 @@
+# Ignorar entorno virtual
+entorno_bootcamp/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Configuración de VSCode 
+.vscode/
