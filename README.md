@@ -29,7 +29,7 @@ Este proyecto corresponde a un diseño experimental cuyo objetivo fue evaluar el
 
 **Conclusión:** Los resultados sugieren que el tipo de pan consumido influye significativamente en la evolución del peso corporal, apoyando la hipótesis de un efecto diferencial entre pan integral y marraqueta.
 
-📎 **Enlace:** [Análisis Experimental: Consumo de Pan y Cambio de Peso]((https://github.com/JuanAlbornoz32/Proyectos_Bootcamp_Analisis_de_Datos/blob/main/analisis_experimental/dise%C3%B1o_experimental.ipynb))
+📎 **Enlace:** [Análisis Experimental: Consumo de Pan y Cambio de Peso](https://github.com/JuanAlbornoz32/Proyectos_Bootcamp_Analisis_de_Datos/blob/main/analisis_experimental/dise%C3%B1o_experimental.ipynb)
 
 ## ✨ Autor
 
