@@ -38,7 +38,7 @@ Se modeló la cantidad de llamadas recibidas por hora, asumiendo una distribuci�
 
 **Conclusión:** Ambos ejercicios ilustran cómo las distribuciones de probabilidad permiten estimar y contrastar escenarios reales, así como validar los modelos teóricos mediante simulaciones empíricas.
 
-📎 **Enlace:** [Probabilidades con Distribución Normal y Poisson](https://github.com/JuanAlbornoz32/Proyectos_Bootcamp_Analisis_de_Datos/blob/main/python/calculo_de_probabilidades.ipynb)
+📎 **Enlace:** [Probabilidades con Distribución Normal y Poisson](https://github.com/JuanAlbornoz32/Proyectos_Bootcamp_Analisis_de_Datos/blob/main/ejercicios_en_python/calculos_probabilisticos/distribucion_normal_poisson.ipynb)
 
 ## 📂 pruebas_estadisticas
 
@@ -64,7 +64,7 @@ Este proyecto corresponde a la realización de una prueba estadística cuyo obje
 
 **Conclusión:** En este ejercicio, los datos simulados muestran diferencias significativas en el cambio de peso corporal entre quienes consumieron pan integral y quienes consumieron marraqueta. Aunque los resultados no corresponden a un estudio real, ilustran adecuadamente el uso de la prueba t de Student en un diseño de dos grupos independientes.
 
-📎 **Enlace:** [Análisis Experimental: Consumo de Pan y Cambio de Peso](https://github.com/JuanAlbornoz32/Proyectos_Bootcamp_Analisis_de_Datos/blob/main/analisis_experimental/dise%C3%B1o_experimental.ipynb)
+📎 **Enlace:** [Análisis Experimental: Consumo de Pan y Cambio de Peso](https://github.com/JuanAlbornoz32/Proyectos_Bootcamp_Analisis_de_Datos/blob/main/ejercicios_en_python/pruebas_estad%C3%ADsticas/experimento_pan_y_cambio_peso/prueba_t_de_student.ipynb)
 
 ## ✨ Autor
 
