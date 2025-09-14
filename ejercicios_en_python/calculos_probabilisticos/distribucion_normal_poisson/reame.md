@@ -10,4 +10,4 @@ Se modeló la cantidad de llamadas recibidas por hora, asumiendo una distribuci�
 
 **Conclusión:** Ambos ejercicios ilustran cómo las distribuciones de probabilidad permiten estimar y contrastar escenarios reales, así como validar los modelos teóricos mediante simulaciones empíricas.
 
-📎 **Enlace al Notebook:** [Probabilidades con Distribución Normal y Poisson](https://github.com/JuanAlbornoz32/Proyectos_Bootcamp_Analisis_de_Datos/blob/main/ejercicios_en_python/calculos_probabilisticos/distribucion_normal_poisson.ipynb)
+📎 **Enlace al Notebook:** [Probabilidades con Distribución Normal y Poisson](https://github.com/JuanAlbornoz32/Proyectos_Bootcamp_Analisis_de_Datos/blob/main/ejercicios_en_python/calculos_probabilisticos/distribucion_normal_poisson/distribucion_normal_poisson.ipynb)

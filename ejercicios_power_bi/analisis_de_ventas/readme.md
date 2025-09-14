@@ -53,4 +53,4 @@ El modelo fue construido a partir de **cuatro tablas distintas** (Ventas, Emplea
 
 ### 📥 Descarga de archivo .pbix 
 
-[Dashboard Interactivo de Ventas](./informe_de_ventas.pbix)
+[Dashboard Interactivo de Ventas](https://github.com/JuanAlbornoz32/Proyectos_Bootcamp_Analisis_de_Datos/raw/main/ejercicios_power_bi/analisis_de_ventas/informe_de_ventas.pbix)

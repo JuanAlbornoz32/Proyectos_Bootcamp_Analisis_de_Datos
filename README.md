@@ -70,7 +70,7 @@ La carpeta ejercicios_power_bi contiene ejercicios e informes que ponen en prác
 
 Simulación de un informe de ventas para un comercio, incluyendo evolución temporal, análisis por producto, empleado y categoría, con filtros interactivos.  
 
-  📎 [Ver proyecto](https://github.com/JuanAlbornoz32/Proyectos_Bootcamp_Analisis_de_Datos/blob/main/ejercicios_power_bi/analisis_de_ventas/readme.md) | [Archivo .pbix ](./informe_de_ventas.pbix)
+  📎 [Ver proyecto](https://github.com/JuanAlbornoz32/Proyectos_Bootcamp_Analisis_de_Datos/blob/main/ejercicios_power_bi/analisis_de_ventas/readme.md) | [Descargar archivo .pbix ](https://github.com/JuanAlbornoz32/Proyectos_Bootcamp_Analisis_de_Datos/raw/main/ejercicios_power_bi/analisis_de_ventas/informe_de_ventas.pbix)
 
 
 ## ✨ Autor
