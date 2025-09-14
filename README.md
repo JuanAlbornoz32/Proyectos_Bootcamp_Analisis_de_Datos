@@ -40,7 +40,7 @@ Caso de estudio sobre los factores que impulsan las ventas en un e-commerce, apl
 
 🔧 Herramientas: pandas, matplotlib, scipy   
 
-📎 [Ver proyecto](./ejercicios_en_python/analisis_descriptivos/correlaciones/README.md) | [Notebook](https://github.com/JuanAlbornoz32/Proyectos_Bootcamp_Analisis_de_Datos/blob/main/ejercicios_en_python/analisis_descriptivos/analisis_de_correlaciones/analisis_de_correlaciones.ipynb)
+📎 [Ver proyecto](https://github.com/JuanAlbornoz32/Proyectos_Bootcamp_Analisis_de_Datos/blob/main/ejercicios_en_python/analisis_descriptivos/analisis_de_correlaciones/reame.md) | [Notebook](https://github.com/JuanAlbornoz32/Proyectos_Bootcamp_Analisis_de_Datos/blob/main/ejercicios_en_python/analisis_descriptivos/analisis_de_correlaciones/analisis_de_correlaciones.ipynb)
 
 ## 📂 calculos_probabilisticos
 
@@ -50,7 +50,7 @@ Ejercicio de probabilidades aplicado a tiempos de atención y volumen de llamada
 
 🔧 Herramientas: numpy, matplotlib, scipy 
 
-📎 [Ver proyecto](./ejercicios_en_python/calculos_probabilisticos/normal_poisson/README.md) | [Notebook](https://github.com/JuanAlbornoz32/Proyectos_Bootcamp_Analisis_de_Datos/blob/main/ejercicios_en_python/calculos_probabilisticos/distribucion_normal_poisson.ipynb)
+📎 [Ver proyecto](https://github.com/JuanAlbornoz32/Proyectos_Bootcamp_Analisis_de_Datos/blob/main/ejercicios_en_python/calculos_probabilisticos/distribucion_normal_poisson/reame.md) | [Notebook](https://github.com/JuanAlbornoz32/Proyectos_Bootcamp_Analisis_de_Datos/blob/main/ejercicios_en_python/calculos_probabilisticos/distribucion_normal_poisson/distribucion_normal_poisson.ipynb)
 
 ## 📂 pruebas_estadisticas
 
@@ -60,7 +60,7 @@ Ejercicio sobre el efecto del tipo de pan consumido en el peso corporal en dos g
 
 🔧 Herramientas: pandas, matplotlib, seaborn, scipy  
 
-📎 [Ver proyecto](./ejercicios_en_python/pruebas_estadisticas/consumo_pan/README.md) | [Notebook](https://github.com/JuanAlbornoz32/Proyectos_Bootcamp_Analisis_de_Datos/blob/main/ejercicios_en_python/pruebas_estad%C3%ADsticas/experimento_pan_y_cambio_peso/prueba_t_de_student.ipynb)
+📎 [Ver proyecto](https://github.com/JuanAlbornoz32/Proyectos_Bootcamp_Analisis_de_Datos/blob/main/ejercicios_en_python/pruebas_estad%C3%ADsticas/experimento_pan_y_cambio_peso/readme.md) | [Notebook](https://github.com/JuanAlbornoz32/Proyectos_Bootcamp_Analisis_de_Datos/blob/main/ejercicios_en_python/pruebas_estad%C3%ADsticas/experimento_pan_y_cambio_peso/prueba_t_de_student.ipynb)
 
 ## 🛠️ Proyectos y ejercicios desarrollados en Power Bi
 
@@ -70,7 +70,7 @@ La carpeta ejercicios_power_bi contiene ejercicios e informes que ponen en prác
 
 Simulación de un informe de ventas para un comercio, incluyendo evolución temporal, análisis por producto, empleado y categoría, con filtros interactivos.  
 
-  📎 [Ver proyecto](./proyecto_powerbi_dashboard/README.md) | [Archivo .pbix ](./informe_de_ventas.pbix)
+  📎 [Ver proyecto](https://github.com/JuanAlbornoz32/Proyectos_Bootcamp_Analisis_de_Datos/blob/main/ejercicios_power_bi/analisis_de_ventas/readme.md) | [Archivo .pbix ](./informe_de_ventas.pbix)
 
 
 ## ✨ Autor
