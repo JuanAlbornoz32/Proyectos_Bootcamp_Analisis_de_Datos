@@ -64,7 +64,13 @@ Ejercicio sobre el efecto del tipo de pan consumido en el peso corporal en dos g
 
 ## 📂 modelos_de_regresion
 
-### 📈 
+### 📈 Modelos de regresión múltiple: Consumo de combustible (mpg)
+
+Ejercicio práctico de modelado estadístico para analizar los factores que influyen en el consumo de combustible de automóviles (millas por galón, mpg), comparando un modelo completo y uno reducido para evaluar precisión vs. interpretabilidad.
+
+🔧 Herramientas: pandas, numpy, matplotlib, seaborn, statsmodels
+
+📎 [Ver proyecto](https://github.com/JuanAlbornoz32/Proyectos_Bootcamp_Analisis_de_Datos/blob/main/ejercicios_en_python/modelos_de_regresion/regresion_multiple/readme.md) | [Notebook](https://github.com/JuanAlbornoz32/Proyectos_Bootcamp_Analisis_de_Datos/blob/main/ejercicios_en_python/modelos_de_regresion/regresion_multiple/ejercicio_millas_por_galon.ipynb)
 
 ## 🛠️ Proyectos y ejercicios desarrollados en Power Bi
 
