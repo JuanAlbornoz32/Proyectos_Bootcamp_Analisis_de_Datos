@@ -62,6 +62,10 @@ Ejercicio sobre el efecto del tipo de pan consumido en el peso corporal en dos g
 
 📎 [Ver proyecto](https://github.com/JuanAlbornoz32/Proyectos_Bootcamp_Analisis_de_Datos/blob/main/ejercicios_en_python/pruebas_estad%C3%ADsticas/experimento_pan_y_cambio_peso/readme.md) | [Notebook](https://github.com/JuanAlbornoz32/Proyectos_Bootcamp_Analisis_de_Datos/blob/main/ejercicios_en_python/pruebas_estad%C3%ADsticas/experimento_pan_y_cambio_peso/prueba_t_de_student.ipynb)
 
+## 📂 modelos_de_regresion
+
+### 📈 
+
 ## 🛠️ Proyectos y ejercicios desarrollados en Power Bi
 
 La carpeta ejercicios_power_bi contiene ejercicios e informes que ponen en práctica diferentes técnicas de análisis y visualizaciones orientadas a la toma de decisiones basadas en datos, utilizando herramientas como Power Bi y Power Query.
